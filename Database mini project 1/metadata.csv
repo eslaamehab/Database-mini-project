@@ -1,0 +1,4 @@
+TableName,ColumnName,ColumnType,ClusteringKey
+Table1,Name,java.lang.String,FALSE
+Table1,ID,java.lang.String,TRUE
+Table2,ID,java.lang.String,TRUE
